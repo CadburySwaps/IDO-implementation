@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "coolNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/test1.sol": "CoolNumberTest"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/test1.sol": {
+			"keccak256": "0x0a35ab7355a94189c001c8d1fc2efb41553865292acd229e73387c0ba97d3372",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0c3116568897daf76d1ef813c5a5e18c270e644b797b2db0985278a1041061ff",
+				"dweb:/ipfs/QmYdYVCuj9h4bqyqBaryeFDxVJUuam6PrZTchJ7k8D21YJ"
+			]
+		}
+	},
+	"version": 1
+}
